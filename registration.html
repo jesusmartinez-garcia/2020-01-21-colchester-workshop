@@ -1,0 +1,134 @@
+---
+layout: page
+title: Registration
+registration_state: open
+form_api_token: df78d9a2a53a7de18266be5db0b67a7b
+email: gapdays2018-fall@gapdays.de
+---
+
+{% case page.registration_state %}
+{% when 'notyet' %}
+<p class="message">Registration will be open from some date in early 2019.</p>
+
+{% when 'closed' %}
+<p class="message">Registration is closed.</p>
+
+{% when 'open' %}
+<p class="message">Registration is open.</p>
+
+<p>
+You can use this form to register for the {{ site.title }}.
+</p>
+
+<p>
+If you any questions
+regarding registration or in general, feel free to
+<a href="mailto:{{page.email}}">contact us via email</a>.
+</p>
+<form action="https://getsimpleform.com/messages?form_api_token={{page.form_api_token}}" method="post">
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="name">Name <span class="form-field-req">*</span></label>
+  </div>
+  <input type="text" size="60" maxlength="80" name="name" autofocus required />
+  <!-- autofocus with fallback for older browsers -->
+  <script>
+    if (!("autofocus" in document.createElement("input"))) {
+      document.getElementById("q").focus();
+    }
+  </script>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="email">Email <span class="form-field-req">*</span></label>
+  </div>
+  <input type="email" size="60" maxlength="80" name="email" required />
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="affiliation">Affiliation</label>
+  </div>
+  <div class="form-field-description">
+    Please enter the name of your home university, institute etc., if any. 
+  </div>
+  <input type="text" size="60" maxlength="80" name="affiliation" />
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="arrival_date">Arrival date <span class="form-field-req">*</span></label> 
+  </div>
+  <div class="form-field-description">
+    Please select the day of arrival (we will start Monday 10 am).
+  </div>
+  <select name="arrival.date" id="arrival_date" required>
+    <option value="Sunday 16 Sep" selected="selected">Sunday 16 Sep or before</option>
+    <option value="Monday 17 Sep">Monday 17 Sep</option>
+    <option value="Tuesday 18 Sep">Tuesday 18 Sep</option>
+    <option value="Wednesday 19 Sep">Wednesday 19 Sep</option>
+    <option value="Thursday 20 Sep">Thursday 20 Sep</option>
+    <option value="Friday 21 Sep">Friday 21 Sep</option>
+  </select>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="departure_date">Departure date <span class="form-field-req">*</span></label> 
+  </div>
+  <div class="form-field-description">
+    Please select the day of departure (we will finish Friday afternoon).
+  </div>
+  <select name="departure.date" id="departure_date" required>
+    <option value="Monday 17 Sep">Monday 17 Sep</option>
+    <option value="Tuesday 18 Sep">Tuesday 18 Sep</option>
+    <option value="Wednesday 19 Sep">Wednesday 19 Sep</option>
+    <option value="Thursday 20 Sep">Thursday 20 Sep</option>
+    <option value="Friday 21 Sep" selected="selected">Friday 21 Sep</option>
+    <option value="Saturday 22 Sep">Saturday 22 Sep or later</option>
+  </select>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="accommodation">Accommodation</label>
+  </div>
+  <div class="form-field-description">
+    We recommend <a href="http://www.cityhotel-siegen.de">Cityhotel Siegen</a>.
+    For the participants of the workshop we managed to
+    get 15 rooms at the reduced rate of 75 Euros/night.
+    The offer is valid until the end of August or until all 15 rooms are booked.
+    You will have to book your accommodation yourself. Please
+    mention <Q>Gap Days 2018</Q> to get the reduced rate.
+  </div>
+<!-- 
+  <input type="text" size="60" maxlength="180" name="accommodation" />
+ -->
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="presentation">Comments</label>
+  </div>
+  <div class="form-field-description">
+    Here you any comments, questions or wishes
+    regarding the workshop. For example, you might like to give a
+    talk, then please provide the title of your talk in the comments.
+    Or maybe you would like to hear a talk about a specific GAP-related topic,
+    then please add your suggestion as a comment.
+    We will do our best to take all requests into account, but cannot
+    promise anything further at the moment.
+  </div>
+  <textarea name="comments" rows="10" cols="60"></textarea>
+</div>
+
+<input type='hidden' name='redirect_to' value='{{ site.url }}{{ site.baseurl }}/thank-you' />
+
+<div class="form-field">
+  <input type="submit" value="Register!" />
+</div>
+
+</form>
+{% endcase %}

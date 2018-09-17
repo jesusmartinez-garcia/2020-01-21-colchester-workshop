@@ -3,7 +3,7 @@ layout: page
 title: Program
 ---
 
-## Detailed Schedule
+## Detailed schedule
 
 The detailed schedule will be announced closer to the event. We will hold an
 opening meeting on Monday at 10am to coordinate plans for the week, and follow a
@@ -24,7 +24,7 @@ cohomology, and recognition methods for permutation groups.
 A more detailed program will be announced closer to the workshop. If you have
 any queries or suggestions do not hesitate to contact the organisers.
 
-1. __Overview over existing Permutation Group Code in GAP__
+1. __Overview of existing Permutation Group Code in GAP__
 
 2. __Partition backtrack methods in the GAP library__
 

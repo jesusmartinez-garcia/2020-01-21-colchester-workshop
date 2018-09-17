@@ -23,7 +23,7 @@ packages. At the end of the week, we would be happy to hear about any progress y
 
 ## {{ site.title }}
 
-GAP Days 2019 will have the theme ``Modern Permutation Group Algorithms''. As
+GAP Days 2019 will have the theme "Modern Permutation Group Algorithms". As
 with previous GAP Days we will aim to survey and develop the algorithmic infrastructure
 for permutation groups in GAP, starting from the basic orbit/stabiliser algorithms.
 

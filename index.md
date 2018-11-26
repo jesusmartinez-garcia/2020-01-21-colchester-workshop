@@ -27,7 +27,7 @@ GAP Days 2019 will have the theme "Modern Permutation Group Algorithms". As
 with previous GAP Days we will aim to survey and develop the algorithmic infrastructure
 for permutation groups in GAP, starting from the basic orbit/stabiliser algorithms.
 
-We would also like this GAP days to be an opportunity for interested
+We would also like this GAP Days to be an opportunity for interested
 (PhD-)students, post-docs, and more experienced mathematicians with little
 knowledge of the insides of GAP to join in, meet us and each other, and learn
 about algorithmic group theory in a relaxed atmosphere.
@@ -51,4 +51,4 @@ If you have questions or suggestions, please contact the organizers:
 
 ## Previous GAP Days
 
-Please visit <https://www.gapdays.de/> for a list of all GAP days.
+Please visit <https://www.gapdays.de/> for a list of all GAP Days.

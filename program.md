@@ -1,7 +1,4 @@
----
-layout: page
-title: Program
----
+--- layout: page title: Program ---
 
 ## Detailed schedule
 
@@ -20,9 +17,8 @@ and strong generating sets, partition backtrack for stabiliser, normaliser, and
 canonical images, chief series, Sylow subgroups, Schur multipliers and
 cohomology, and recognition methods for permutation groups.
 
-
-A more detailed program will be announced closer to the workshop. If you have
-any queries or suggestions do not hesitate to contact the organisers.
+A more detailed program will be announced closer to the event. If you have any
+queries or suggestions, then please do not hesitate to contact the organisers.
 
 1. __Overview of existing Permutation Group Code in GAP__
 

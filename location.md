@@ -4,8 +4,8 @@ title: Location
 ---
 
 The ninth GAP Days will take place in
-[Halle (Saale)](http://www.halle.de/) at the
-[Department of Mathematics](http://www.mathematik.uni-halle.de/).
+[Halle (Saale)](http://www.halle.de/en/Home) at the
+[Department of Mathematics](http://www.mathematik.uni-halle.de).
 
 <h4>Address</h4>
 Theodor-Lieser-Straße 5 <br/>

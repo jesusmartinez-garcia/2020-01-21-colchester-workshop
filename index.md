@@ -33,6 +33,12 @@ PhD students, post-docs, and more experienced mathematicians. You will be able
 to meet us and each other, and learn about GAP development and algorithmic group
 theory in a relaxed and friendly atmosphere.
 
+To support these aims, we would like to include a small number of talks about
+computing with permutation groups in GAP. If there is a particular topic in this
+area that you would like to hear a talk about, then please include details in
+the comment box at registration.  If you would be interested in contributing
+such a talk, then please include your proposed title.
+
 More detailed information can be found on [the program page]({{ site.baseurl }}/program).
 
 ## Registering and visiting

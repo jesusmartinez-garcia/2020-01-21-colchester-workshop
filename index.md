@@ -12,7 +12,7 @@ title: Home
 [GAP](https://www.gap-system.org/) Days are meetings where developers and users
 with GAP programming experience are invited to discuss, influence, and
 contribute to the future development of GAP. To streamline each meeting, the
-organizers usually suggest a few main topics to work on during the week.
+organisers usually suggest a few main topics to work on during the week.
 
 The meetings are also suitable for advertising recent developments in GAP
 itself, and its packages, via short talks.  However, the focus of the meetings
@@ -43,7 +43,9 @@ page]({{ site.baseurl }}/location).
 
 ## <a name="contact"></a> Contact
 
-If you have questions or suggestions, then please contact the organizers:
+If you have questions or suggestions, then please contact the organisers by
+email at [gapdays2019-spring@gapdays.de](mailto:gapdays2019-spring@gapdays.de).
+The organisers can also be contacted individually, if necessary:
 
 * [Chris Jefferson](mailto:caj21@st-andrews.ac.uk)
 * [Markus Pfeiffer](mailto:markus.pfeiffer@st-andrews.ac.uk)
@@ -52,4 +54,4 @@ If you have questions or suggestions, then please contact the organizers:
 
 ## Previous GAP Days
 
-Please visit <https://www.gapdays.de/> for a list of all GAP Days.
+Please visit <https://www.gapdays.de> for a list of all GAP Days.

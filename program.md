@@ -2,9 +2,9 @@
 
 ## Detailed schedule
 
-The detailed schedule will be announced closer to the event. We will hold an
-opening meeting on Monday at 10am to coordinate plans for the week, and follow a
-pattern of "Standups" at around 9am in the morning, and 4pm in the afternoon to
+The detailed schedule will be announced closer to the event. We will open with a
+meeting on Monday at 10am to coordinate plans for the week, and follow a pattern
+of "Standups" each day at around 9am in the morning, and 4pm in the afternoon to
 communicate what we have worked on.
 
 We expect to close the meeting by 3pm on Friday.

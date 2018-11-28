@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            'GAP Days Spring 2019'
 tagline:          'Modern Permutation Group Algorithms'
-description:      '18th to 22nd March 2019'
+description:      '18<sup>th</sup> to 22<sup>nd</sup> March 2019'
 location:         'University of Halle'
 url:              https://www.gapdays.de
 baseurl:          /gapdays2019-spring

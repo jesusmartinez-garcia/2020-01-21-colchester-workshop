@@ -7,7 +7,7 @@ title: Home
 
 ## {{ site.description }}<br> {{ site.location }}
 
-## GAP in general
+## GAP Days in general
 
 [GAP](https://www.gap-system.org/) Days are meetings where developers and users
 with GAP programming experience are invited to discuss, influence, and

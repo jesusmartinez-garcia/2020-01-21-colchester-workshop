@@ -1,13 +1,41 @@
+- name: Dominik Bernhardt
+  affiliation: RWTH Aachen
+
+- name: Thomas Brown
+  affiliation: University of Southampton
+
+- name: Mun See Chang
+  affiliation: University of St Andrews
+
+- name: Deepshikha Chatterjee
+  affiliation: Ambedkar University Delhi
+
+- name: Vincent Delecroix
+  affiliation: CNRS, France & Max Planck Institut, Germany
+
+- name: Paula Hähndel
+  affiliation: Martin-Luther-Universität Halle-Wittenberg
+
+- name: Max Horn
+  affiliation: Justus-Liebig-Universität Giessen
+
 - name: Chris Jefferson
   affiliation: University of St Andrews
 
 - name: Markus Pfeiffer
   affiliation: University of St Andrews
 
+- name: Sivaraj Ramachandran
+  affiliation: Vellore Institute of Technology
+
+- name: Sergio Siccha
+  affiliation: RWTH Aachen
+
+- name: Michael Torpey
+  affiliation: University of St Andrews
+
 - name: Rebecca Waldecker
-  affiliation: Universität Halle-Wittenberg
+  affiliation: Martin-Luther-Universität Halle-Wittenberg
 
 - name: Wilf Wilson
-  affiliation: Universität Halle-Wittenberg
-
-
+  affiliation: Martin-Luther-Universität Halle-Wittenberg

@@ -39,7 +39,15 @@ area that you would like to hear a talk about, then please include details in
 the comment box at registration.  If you would be interested in contributing
 such a talk, then please include your proposed title.
 
+GAP Days Spring 2019 is organised by
+
+* Chris Jefferson
+* Markus Pfeiffer
+* Rebecca Waldecker
+* Wilf Wilson
+
 More detailed information can be found on [the program page]({{ site.baseurl }}/program).
+
 
 ## Registering and visiting
 
@@ -51,12 +59,6 @@ page]({{ site.baseurl }}/location).
 
 If you have questions or suggestions, then please contact the organisers by
 email at [gapdays2019-spring@gapdays.de](mailto:gapdays2019-spring@gapdays.de).
-The organisers can also be contacted individually, if necessary:
-
-* [Chris Jefferson](mailto:caj21@st-andrews.ac.uk)
-* [Markus Pfeiffer](mailto:markus.pfeiffer@st-andrews.ac.uk)
-* [Rebecca Waldecker](mailto:rebecca.waldecker@mathematik.uni-halle.de)
-* [Wilf Wilson](mailto:wilfred.wilson@mathematik.uni-halle.de)
 
 ## Previous GAP Days
 

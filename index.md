@@ -23,21 +23,24 @@ week, we would be happy to hear about any progress you made.
 
 ## {{ site.title }}
 
-The theme of this GAP Days will be “Modern Permutation Group Algorithms”. During
-this GAP Days, we aim to survey and develop the algorithmic infrastructure for
-permutation groups in GAP, beginning with the basic orbit/stabiliser algorithms.
+The theme of this GAP Days will be “Modern Permutation Group Algorithms”.
+During this GAP Days, we aim to survey, understand, and develop the algorithmic
+infrastructure for permutation groups in GAP. To support these aims, we will
+begin by spending the first day reviewing and discussing the current
+functionality in GAP for permutations and permutation groups, beginning with the
+way permutations are stored and the basic orbit-stabiliser algorithms, and
+identifying areas in the code and documentation for improvement as we proceed.
 
-We would also like this GAP Days to be an opportunity for all interested people
-with little knowledge of the insides of GAP to join in: this includes students,
-PhD students, post-docs, and more experienced mathematicians. You will be able
-to meet us and each other, and learn about GAP development and algorithmic group
-theory in a relaxed and friendly atmosphere.
+We will also include a small number of additional talks during the GAP Days
+about computing with permutation groups in GAP. If there is a particular topic
+in this area that you would like to hear a talk about, then please include
+details in the comment box at registration.
 
-To support these aims, we would like to include a small number of talks about
-computing with permutation groups in GAP. If there is a particular topic in this
-area that you would like to hear a talk about, then please include details in
-the comment box at registration.  If you would be interested in contributing
-such a talk, then please include your proposed title.
+We would like this GAP Days to be an opportunity for all interested people with
+little knowledge of the insides of GAP to join in: this includes undergraduate
+students, PhD students, post-docs, and more experienced mathematicians. You will
+be able to meet us and each other, and learn about GAP development and
+algorithmic group theory in a relaxed and friendly atmosphere.
 
 GAP Days Spring 2019 is organised by
 

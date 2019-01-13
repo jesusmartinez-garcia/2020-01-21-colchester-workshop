@@ -24,7 +24,8 @@ rooms at a rate of 56 Euros (single room) or 75 Euros (double room) per night.
 These rooms are available from Sunday 17<sup>th</sup> March until Saturday
 23<sup>rd</sup> March 2019.  The offer includes free breakfast and free travel
 on the public transport within Halle for the duration of your visit.  The offer
-is valid until 2<sup>nd</sup> February 2019, or until all 15 rooms are booked.
+is <b>valid until 2<sup>nd</sup> February 2019</b>, or until all 15 rooms are
+booked.
 You can book a room by completing the
 following form, and sending it to the hotel: <a href="{{ site.url }}{{
   site.baseurl }}/hotel_form/english.pdf">reservation form (English)</a>,

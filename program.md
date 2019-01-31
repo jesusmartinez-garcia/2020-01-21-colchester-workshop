@@ -1,4 +1,7 @@
---- layout: page title: Program ---
+---
+layout: page
+title: Program
+---
 
 ## Detailed schedule
 

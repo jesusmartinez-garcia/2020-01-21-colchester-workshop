@@ -3,14 +3,51 @@ layout: page
 title: Program
 ---
 
+* __Start:__ Monday 18<sup>th</sup> March 2018 at 10:00
+* __Finish:__ Friday 22<sup>nd</sup> March 2018 at 15:00
+
+[Link to the HackMD for GAP Days Spring
+2019](https://hackmd.io/9ctY1jNaTiOm2-eUUQOjlw)
+
 ## Detailed schedule
 
-The detailed schedule will be announced closer to the event. We will open with a
-meeting on Monday at 10am to coordinate plans for the week, and follow a pattern
-of "Standups" each day at around 9am in the morning, and 4pm in the afternoon to
-communicate what we have worked on.
+The complete schedule will be announced closer to the event.  We will open with
+a meeting at 10am on Monday to coordinate plans for the week, and follow a
+pattern of "Standups" each day at around 9am and 4pm, to communicate what we
+plan to work on, and what we have worked on, respectively.  We expect to close
+the meeting at around 3pm on Friday. **Please note that this schedule is
+currently incomplete, and may change significantly.**
 
-We expect to close the meeting by 3pm on Friday.
+- **Monday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
+  - 10:00: **Opening of the GAP Days**
+  - 12:00: *Lunch (in-house Mensa)*
+  - 16:00: Stand-up meeting
+  - 18:30: Workshop dinner
+
+- **Tuesday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
+  - 09:00: Stand-up meeting
+  - 10:00–10:30: Talk TBA
+  - 11:55: Group photo
+  - 12:00: *Lunch (in-house Mensa)*
+  - 16:00: Stand-up meeting
+
+- **Wednesday** (Room 1.30 in Von-Seckendorff-Platz 1)
+  - 09:00: Stand-up meeting
+  - 10:00–10:30: Talk TBA
+  - 12:00: *Lunch (in-house Mensa)*
+  - 16:00: Stand-up meeting
+
+- **Thursday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
+  - 09:00: Stand-up meeting
+  - 10:00–10:30: Talk TBA
+  - 12:00: *Lunch (in-house Mensa)*
+  - 16:00: Stand-up meeting
+
+- **Friday:** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
+  - 09:30: Stand-up meeting
+  - 10:00–10:30: Talk TBA
+  - 12:00: *Lunch (in-house Mensa)*
+  - 15:00: **Close of the GAP Days**
 
 ## Topics and projects
 

@@ -44,10 +44,11 @@ need to purchase single ticket (2.30 Euro) for this journey.  To travel from
 *Zentrum Neustadt* to *Straßburger Weg* for the GAP Days, it is necessary to
 change trams at *Rennbahnkreuz*.
 
-<!-- We had negotiated a special offer for participants of GAP Days
+The organisers had negotiated a special offer for participants of GAP Days
 Spring 2019, but this offer has now expired. However, there are still rooms
-available at normal rates. -->
+available at normal rates.
 
+<!--
 For participants of GAP Days Spring 2019, we have negotiated 15 rooms at a rate
 of 56 Euro (single room) or 75 Euro (double room) per night, including
 breakfast.  These rooms are available from Sunday 17<sup>th</sup> March until
@@ -57,3 +58,4 @@ completing the following form, and sending it to the hotel: <a href="{{ site.url
 }}{{ site.baseurl }}/hotel_form/english.pdf">reservation form (English)</a>, or
 <a href="{{ site.url }}{{ site.baseurl }}/hotel_form/deutsch.pdf">reservation
 form (German)</a>.
+-->

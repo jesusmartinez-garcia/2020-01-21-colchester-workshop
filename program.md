@@ -48,7 +48,7 @@ currently incomplete, and may change significantly.**
   - 12:00: *Lunch (in the [university Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
   - 16:00: Stand-up meeting
 
-- **Wednesday** (Room 1.30 in Von-Seckendorff-Platz 1)
+- **Wednesday** (**Room 1.30** in Von-Seckendorff-Platz 1 – note the room change)
   - 09:00: Stand-up meeting
   - 10:00–10:30: Talk TBA
   - 12:00: *Lunch (in the [university Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*

@@ -9,6 +9,23 @@ title: Program
 [Link to the HackMD for GAP Days Spring
 2019](https://hackmd.io/9ctY1jNaTiOm2-eUUQOjlw)
 
+
+## Topics and projects
+
+The overarching theme of this GAP Days will be GAP's infrastructure for
+computing with permutation groups, such as orbit and stabiliser algorithms, base
+and strong generating sets, partition backtrack for stabiliser, normaliser, and
+canonical images, chief series, Sylow subgroups, Schur multipliers and
+cohomology, and recognition methods for permutation groups.  If you have any
+queries or suggestions, then please do not hesitate to contact the organisers.
+
+1. __Overview of existing Permutation Group Code in GAP__
+
+2. __Partition backtrack methods in the GAP library__
+
+3. __Recognition methods for large base groups__
+
+
 ## Detailed schedule
 
 The complete schedule will be announced closer to the event.  We will open with
@@ -20,7 +37,7 @@ currently incomplete, and may change significantly.**
 
 - **Monday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
   - 10:00: **Opening of the GAP Days**
-  - 12:00: *Lunch (in-house Mensa)*
+  - 12:00: *Lunch (in the [university Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
   - 16:00: Stand-up meeting
   - 18:30: Workshop dinner
 
@@ -28,40 +45,23 @@ currently incomplete, and may change significantly.**
   - 09:00: Stand-up meeting
   - 10:00–10:30: Talk TBA
   - 11:55: Group photo
-  - 12:00: *Lunch (in-house Mensa)*
+  - 12:00: *Lunch (in the [university Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
   - 16:00: Stand-up meeting
 
 - **Wednesday** (Room 1.30 in Von-Seckendorff-Platz 1)
   - 09:00: Stand-up meeting
   - 10:00–10:30: Talk TBA
-  - 12:00: *Lunch (in-house Mensa)*
+  - 12:00: *Lunch (in the [university Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
   - 16:00: Stand-up meeting
 
 - **Thursday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
   - 09:00: Stand-up meeting
   - 10:00–10:30: Talk TBA
-  - 12:00: *Lunch (in-house Mensa)*
+  - 12:00: *Lunch (in the [university Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
   - 16:00: Stand-up meeting
 
 - **Friday:** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
   - 09:30: Stand-up meeting
   - 10:00–10:30: Talk TBA
-  - 12:00: *Lunch (in-house Mensa)*
+  - 12:00: *Lunch (in the [university Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
   - 15:00: **Close of the GAP Days**
-
-## Topics and projects
-
-The overarching theme of this GAP Days will be GAP's infrastructure for
-computing with permutation groups, such as orbit and stabiliser algorithms, base
-and strong generating sets, partition backtrack for stabiliser, normaliser, and
-canonical images, chief series, Sylow subgroups, Schur multipliers and
-cohomology, and recognition methods for permutation groups.
-
-A more detailed program will be announced closer to the event. If you have any
-queries or suggestions, then please do not hesitate to contact the organisers.
-
-1. __Overview of existing Permutation Group Code in GAP__
-
-2. __Partition backtrack methods in the GAP library__
-
-3. __Recognition methods for large base groups__

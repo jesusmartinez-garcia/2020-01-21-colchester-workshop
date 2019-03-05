@@ -6,8 +6,12 @@ title: Program
 * __Start:__ Monday 18<sup>th</sup> March 2018 at 10:00
 * __Finish:__ Friday 22<sup>nd</sup> March 2018 at 15:00
 
+### Organisational notepad for the GAP Days
+
 [Link to the HackMD for GAP Days Spring
-2019](https://hackmd.io/9ctY1jNaTiOm2-eUUQOjlw)
+2019](https://hackmd.io/9ctY1jNaTiOm2-eUUQOjlw).  In this notepad, we invite you
+to share organisational information, and details about what you want to work
+on/have worked on during the GAP Days.
 
 
 ## Topics and projects
@@ -19,7 +23,7 @@ canonical images, chief series, Sylow subgroups, Schur multipliers and
 cohomology, and recognition methods for permutation groups.  If you have any
 queries or suggestions, then please do not hesitate to contact the organisers.
 
-1. __Overview of existing Permutation Group Code in GAP__
+1. __Overview of existing permutation group code in GAP__
 
 2. __Partition backtrack methods in the GAP library__
 
@@ -30,7 +34,7 @@ queries or suggestions, then please do not hesitate to contact the organisers.
 
 The complete schedule will be announced closer to the event.  We will open with
 a meeting at 10am on Monday to coordinate plans for the week, and follow a
-pattern of "Standups" each day at around 9am and 4pm, to communicate what we
+pattern of "Standups" each day at around 9am and 4:30pm, to communicate what we
 plan to work on, and what we have worked on, respectively.  We expect to close
 the meeting at around 3pm on Friday. **Please note that this schedule is
 currently incomplete, and may change significantly.**
@@ -38,7 +42,7 @@ currently incomplete, and may change significantly.**
 - **Monday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
   - 10:00: **Opening of the GAP Days**
   - 12:00: *Lunch (in the [university Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
-  - 16:00: Stand-up meeting
+  - 16:30: Stand-up meeting
   - 18:30: Workshop dinner
 
 - **Tuesday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
@@ -46,19 +50,19 @@ currently incomplete, and may change significantly.**
   - 10:00–10:30: Talk TBA
   - 11:55: Group photo
   - 12:00: *Lunch (in the [university Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
-  - 16:00: Stand-up meeting
+  - 16:30: Stand-up meeting
 
 - **Wednesday** (**Room 1.30** in Von-Seckendorff-Platz 1 – note the room change)
   - 09:00: Stand-up meeting
   - 10:00–10:30: Talk TBA
   - 12:00: *Lunch (in the [university Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
-  - 16:00: Stand-up meeting
+  - 16:30: Stand-up meeting
 
 - **Thursday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
   - 09:00: Stand-up meeting
   - 10:00–10:30: Talk TBA
   - 12:00: *Lunch (in the [university Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
-  - 16:00: Stand-up meeting
+  - 16:30: Stand-up meeting
 
 - **Friday:** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
   - 09:30: Stand-up meeting

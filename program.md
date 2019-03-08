@@ -14,6 +14,50 @@ to share organisational information, and details about what you want to work
 on/have worked on during the GAP Days.
 
 
+## Detailed schedule
+
+We will open with a meeting at 10am on Monday to coordinate plans for the week,
+and follow a pattern of "Standups" each day at around 9am and 4:30pm, to
+communicate what we plan to work on, and what we have worked on, respectively.
+We expect to close the meeting at around 3pm on Friday. **Please note that this
+schedule is currently liable to change significantly.**
+
+- **Monday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
+  - 10:00: **Opening of the GAP Days**
+  - 12:00: Lunch *(in the [university Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
+  - 16:30: Stand-up meeting
+  - 18:30: Workshop dinner
+
+- **Tuesday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
+  - 09:00: Stand-up meeting
+  - 10:00–10:30: Talk by Leonard Soicher:
+  <br />&nbsp;&nbsp;
+  *“<a href="{{ site.baseurl }}/abstracts/soicher">Exploiting graph symmetry in the computation of chromatic number</a>”*
+  - 11:55: Group photo
+  - 12:00: Lunch *(in the [university Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
+  - 16:30: Stand-up meeting
+
+- **Wednesday** (**Room 1.30** in Von-Seckendorff-Platz 1 – note the room change)
+  - 09:00: Stand-up meeting
+  - 10:00–10:30: Talk by Vincent Delecroix:
+  <br />&nbsp;&nbsp;
+  *“<a href="{{ site.baseurl }}/abstracts/delecroix">Galois group of polynomials</a>”*
+  - 12:00: Lunch *(in the [university Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
+  - 16:30: Stand-up meeting
+
+- **Thursday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
+  - 09:00: Stand-up meeting
+  - 10:00–10:30: Talk by Calin Borceanu
+  - 12:00: Lunch *(in the [university Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
+  - 16:30: Stand-up meeting
+
+- **Friday:** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
+  - 09:30: Stand-up meeting
+  - 10:00–10:30: Talk TBA
+  - 12:00: Lunch *(in the [university Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
+  - 15:00: **Close of the GAP Days**
+
+
 ## Topics and projects
 
 The overarching theme of this GAP Days will be GAP's infrastructure for
@@ -28,44 +72,3 @@ queries or suggestions, then please do not hesitate to contact the organisers.
 2. __Partition backtrack methods in the GAP library__
 
 3. __Recognition methods for large base groups__
-
-
-## Detailed schedule
-
-The complete schedule will be announced closer to the event.  We will open with
-a meeting at 10am on Monday to coordinate plans for the week, and follow a
-pattern of "Standups" each day at around 9am and 4:30pm, to communicate what we
-plan to work on, and what we have worked on, respectively.  We expect to close
-the meeting at around 3pm on Friday. **Please note that this schedule is
-currently incomplete, and may change significantly.**
-
-- **Monday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
-  - 10:00: **Opening of the GAP Days**
-  - 12:00: *Lunch (in the [university Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
-  - 16:30: Stand-up meeting
-  - 18:30: Workshop dinner
-
-- **Tuesday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
-  - 09:00: Stand-up meeting
-  - 10:00–10:30: Talk TBA
-  - 11:55: Group photo
-  - 12:00: *Lunch (in the [university Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
-  - 16:30: Stand-up meeting
-
-- **Wednesday** (**Room 1.30** in Von-Seckendorff-Platz 1 – note the room change)
-  - 09:00: Stand-up meeting
-  - 10:00–10:30: Talk TBA
-  - 12:00: *Lunch (in the [university Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
-  - 16:30: Stand-up meeting
-
-- **Thursday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
-  - 09:00: Stand-up meeting
-  - 10:00–10:30: Talk TBA
-  - 12:00: *Lunch (in the [university Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
-  - 16:30: Stand-up meeting
-
-- **Friday:** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
-  - 09:30: Stand-up meeting
-  - 10:00–10:30: Talk TBA
-  - 12:00: *Lunch (in the [university Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
-  - 15:00: **Close of the GAP Days**

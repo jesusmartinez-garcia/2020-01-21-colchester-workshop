@@ -53,7 +53,7 @@ schedule is currently liable to change significantly.**
 
 - **Friday:** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
   - 09:30: Stand-up meeting
-  - 10:00–10:30: Talk TBA
+  - 10:00–10:30: Opportunity for spontaneous short talk(s)
   - 12:00: Lunch *(in the [university Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
   - 15:00: **Close of the GAP Days**
 

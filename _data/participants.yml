@@ -50,6 +50,8 @@
 
 - name: Johannes Hahn
   affiliation: Friedrich-Schiller-Universität Jena
+  links:
+    "GitHub: JHahnHRO": https://github.com/JHahnHRO
 
 - name: Max Horn
   affiliation: Justus-Liebig-Universität Giessen

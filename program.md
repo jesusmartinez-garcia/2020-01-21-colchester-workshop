@@ -26,7 +26,7 @@ schedule is currently liable to change significantly.**
   - 10:00: **Opening of the GAP Days**
   - 12:00: Lunch *(in the [university Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
   - 16:30: Stand-up meeting
-  - 18:30: Workshop dinner
+  - 18:30: Workshop dinner at [House of India](https://house-of-india.de)
 
 - **Tuesday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
   - 09:00: Stand-up meeting

@@ -56,14 +56,20 @@ The organisers had negotiated a special offer for participants of GAP Days
 Spring 2019, but this offer has now expired. However, there are still rooms
 available at normal rates.
 
-<!--
-For participants of GAP Days Spring 2019, we have negotiated 15 rooms at a rate
-of 56 Euro (single room) or 75 Euro (double room) per night, including
-breakfast.  These rooms are available from Sunday 17<sup>th</sup> March until
-Saturday 23<sup>rd</sup> March 2019.  The offer is <b>valid until 3<sup>rd</sup>
-February 2019</b>, or until all 15 rooms are booked.  You can book a room by
-completing the following form, and sending it to the hotel: <a href="{{ site.url
-}}{{ site.baseurl }}/hotel_form/english.pdf">reservation form (English)</a>, or
-<a href="{{ site.url }}{{ site.baseurl }}/hotel_form/deutsch.pdf">reservation
-form (German)</a>.
--->
+<h2>Restaurants</h2>
+
+Halle is a city of around 240,000 people, so there is a reasonably large variety
+of restaurants and bars in the city. Kleine Ulrichstraße has a particularly high
+concentration of decent restaurants and bars, so it would be a good place to
+start if you want to see what you fancy. **Please bring cash to restaurants and
+bars**; there is likely only a small chance that foreign cards will be
+accepted.
+
+Here are some more specific places that you might like to visit:
+
+* [Viet Village](https://www.tripadvisor.com/Restaurant_Review-g187405-d12404156-Reviews-Viet_Village_Asian_Streetfood-Halle_Saale_Saxony_Anhalt.html) (Vietnamese)
+* [Rote Soße](http://rotesosse.de) (Pizza)
+* [Osteria Da Salvatore](http://webseite.osteria-salvatore.virtiv.de) (Italian)
+* [Bella Italia](http://www.bellaitalia-halle.de) (Italian, unsurprisingly)
+* [Hallesches Brauhaus](http://halleschesbrauhaus.de)
+* [Prager Bierstuben](https://www.wenzel-bierstuben.de/standorte-2/wenzel-halle)

@@ -19,8 +19,7 @@ on/have worked on during the GAP Days.
 We will open with a meeting at 10am on Monday to coordinate plans for the week,
 and follow a pattern of "Standups" each day at around 9am and 4:30pm, to
 communicate what we plan to work on, and what we have worked on, respectively.
-We expect to close the meeting at around 3pm on Friday. **Please note that this
-schedule is currently liable to change significantly.**
+We will close the meeting at around 3pm on Friday.
 
 - **Monday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
   - 10:00: **Opening of the GAP Days**
@@ -54,7 +53,7 @@ schedule is currently liable to change significantly.**
 - **Friday:** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
   - 09:30: Stand-up meeting
   - 10:00–10:30: Opportunity for spontaneous short talk(s)
-  - 12:00: Lunch *(in the [university Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
+  - 12:00: Lunch *(in the [university Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar))*
   - 15:00: **Close of the GAP Days**
 
 

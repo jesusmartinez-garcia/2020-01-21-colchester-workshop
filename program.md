@@ -36,7 +36,7 @@ We will close the meeting at around 3pm on Friday.
   - 12:00: Lunch *(in the [university Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
   - 16:30: Stand-up meeting
 
-- **Wednesday** (**Room 1.30** in Von-Seckendorff-Platz 1 – note the room change)
+- **Wednesday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1<!--**Room 1.30** in Von-Seckendorff-Platz 1 – note the room change-->)
   - 09:00: Stand-up meeting
   - 10:00–10:30: Talk by Vincent Delecroix:
   <br />&nbsp;&nbsp;

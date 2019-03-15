@@ -21,9 +21,11 @@ Von-Seckendorff-Platz 1<br/>
 <h2>Rooms</h2>
 
 The main base for the GAP Days will be **rooms 5.09 and 5.10**, on the fifth
-floor of Von-Seckendorff-Platz 1. However, this room is unavailable on Wednesday
+floor of Von-Seckendorff-Platz 1.
+<!--
+However, this room is unavailable on Wednesday
 20<sup>th</sup> March. Instead we will be based in room 1.30 on the Wednesday,
-which on the first floor.
+which on the first floor.-->
 
 Throughout the GAP Days, we will also have access to **seminar rooms 1.02 and
 1.03**, on the first floor.  These rooms will be useful for those who wish to

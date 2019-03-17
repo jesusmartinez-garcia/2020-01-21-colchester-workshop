@@ -57,9 +57,8 @@ More detailed information can be found on [the program page]({{ site.baseurl }}/
 ## Registering and visiting
 
 GAP Days Spring 2019 will take place at the {{ site.location }}. Information
-about the exact location and accommodation options can be found on [the location
-page]({{ site.baseurl }}/location). You can register on [the registration
-page]({{ site.baseurl }}/registration).
+about the exact location can be found on [the location
+page]({{ site.baseurl }}/location).
 
 ## <a name="contact"></a> Contact
 

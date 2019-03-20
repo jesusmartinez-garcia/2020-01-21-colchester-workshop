@@ -3,6 +3,9 @@ layout: page
 title: Participants
 ---
 
+<a href="{{ site.baseurl }}/images/group-photo-large.jpg">
+  <img src="{{ site.baseurl }}/images/group-photo-small.jpg" /></a>
+
 <ol>
 {% for p in site.data.participants %}
   <li>

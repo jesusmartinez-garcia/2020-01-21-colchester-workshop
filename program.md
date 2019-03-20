@@ -32,7 +32,7 @@ We will close the meeting at around 3pm on Friday.
   - 10:00–10:30: Talk by Leonard Soicher:
   <br />&nbsp;&nbsp;
   *“<a href="{{ site.baseurl }}/abstracts/soicher">Exploiting graph symmetry in the computation of chromatic number</a>”*
-  - 11:55: Group photo
+  - 11:55: [Group photo]({{ site.baseurl }}/images/group-photo-large.jpg)
   - 12:00 (ish): Lunch *(in the [Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
   - 16:30: Stand-up meeting
 

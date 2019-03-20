@@ -14,8 +14,8 @@
   links:
     "GitHub: ThomasBreuer": https://github.com/ThomasBreuer
 
-- name: Thomas Brown
-  affiliation: University of Southampton
+#- name: Thomas Brown
+#  affiliation: University of Southampton
 
 - name: Alexander Cant
   affiliation: TU Braunschweig
@@ -63,8 +63,8 @@
   links:
     "GitHub: ChrisJefferson": https://github.com/ChrisJefferson
 
-- name: George Kamanga
-  affiliation: Blantyre International University
+#- name: George Kamanga
+#  affiliation: Blantyre International University
 
 - name: James D. Mitchell
   affiliation: University of St Andrews

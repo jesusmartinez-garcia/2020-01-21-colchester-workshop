@@ -4,7 +4,8 @@ title: Participants
 ---
 
 <a href="{{ site.baseurl }}/images/group-photo-large.jpg">
-  <img src="{{ site.baseurl }}/images/group-photo-small.jpg" /></a>
+  <img alt="Group photo for GAP Days Spring 2019 in Halle. Click for larger
+  version" src="{{ site.baseurl }}/images/group-photo-small.jpg" /></a>
 
 <ol>
 {% for p in site.data.participants %}

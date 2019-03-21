@@ -36,7 +36,7 @@ We will close the meeting at around 3pm on Friday.
   - 12:00 (ish): Lunch *(in the [Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
   - 16:30: Stand-up meeting
 
-- **Wednesday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1<!--**Room 1.30** in Von-Seckendorff-Platz 1 – note the room change-->)
+- **Wednesday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
   - 09:15: Stand-up meeting
   - 10:00–10:30: Talk by Vincent Delecroix:
   <br />&nbsp;&nbsp;
@@ -46,8 +46,12 @@ We will close the meeting at around 3pm on Friday.
 
 - **Thursday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
   - 09:15: Stand-up meeting
-  - 10:00–10:30: Talk by Calin Borceanu
+  - 10:00: Discussion about managing issues/PRs on `gap-system/gap`
+  - 11:00: Discussion about GAP infrastructure for
+           website &amp; hosting
   - 12:00 (ish): Lunch *(in the [Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
+  - 14:00: Talk by Sergio Siccha (Room 1.02)
+  - 15:00: Discussion led by Chris Jefferson about BacktrackKit
   - 16:30: Stand-up meeting
 
 - **Friday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)

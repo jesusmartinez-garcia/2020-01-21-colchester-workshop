@@ -37,7 +37,7 @@ We will close the meeting at around 3pm on Friday.
   - 16:30: Stand-up meeting
 
 - **Wednesday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1<!--**Room 1.30** in Von-Seckendorff-Platz 1 – note the room change-->)
-  - 09:00: Stand-up meeting
+  - 09:15: Stand-up meeting
   - 10:00–10:30: Talk by Vincent Delecroix:
   <br />&nbsp;&nbsp;
   *“<a href="{{ site.baseurl }}/abstracts/delecroix">Galois group of polynomials</a>”*
@@ -45,13 +45,13 @@ We will close the meeting at around 3pm on Friday.
   - 16:30: Stand-up meeting
 
 - **Thursday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
-  - 09:00: Stand-up meeting
+  - 09:15: Stand-up meeting
   - 10:00–10:30: Talk by Calin Borceanu
   - 12:00 (ish): Lunch *(in the [Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
   - 16:30: Stand-up meeting
 
 - **Friday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
-  - 09:30: Stand-up meeting
+  - 09:15: Stand-up meeting
   - 10:00–10:30: Opportunity for spontaneous short talk(s)
   - 12:00 (ish): Lunch *(in the [Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar))*
   - 15:00: **Close of the GAP Days**

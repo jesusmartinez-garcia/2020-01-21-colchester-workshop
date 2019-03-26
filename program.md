@@ -28,7 +28,7 @@ We will close the meeting at around 3pm on Friday.
   - 18:30: Workshop dinner at [House of India](https://house-of-india.de)
 
 - **Tuesday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
-  - 09:00: Stand-up meeting
+  - 09:15: Stand-up meeting
   - 10:00–10:30: Talk by Leonard Soicher:
   <br />&nbsp;&nbsp;
   *“<a href="{{ site.baseurl }}/abstracts/soicher">Exploiting graph symmetry in the computation of chromatic number</a>”*

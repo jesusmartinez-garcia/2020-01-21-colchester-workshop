@@ -6,12 +6,12 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            'GAP Days Spring 2019'
-tagline:          'Modern Permutation Group Algorithms'
-description:      '18<sup>th</sup> to 22<sup>nd</sup> March 2019'
-location:         'Martin Luther University of Halle-Wittenberg'
-url:              https://www.gapdays.de
-baseurl:          /gapdays2019-spring
+title:            'CoDiMa Workshop 2019'
+tagline:          'Algorithms and Software for Discrete Computational Mathematics'
+description:      '23<sup>rd</sup> to 25<sup>th</sup> May 2019'
+location:         'The University of Manchester'
+url:              https://CIRCA-StAndrews.github.io
+baseurl:          /codima2019workshop 
 
 
 exclude: [ "LICENSE.hyde.md", "README.hyde.md", "program.aux", "program.log", "program.out", "program.tex", "misc" ]

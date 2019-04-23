@@ -3,11 +3,6 @@ layout: page
 title: Participants
 ---
 
-<a href="{{ site.baseurl }}/images/group-photo-large.jpg">
-  <img alt="Group photo for GAP Days Spring 2019 in Halle. Click for larger
-  version" src="{{ site.baseurl }}/images/group-photo-small.jpg" /></a>
-*Photo by [Patrick Salfeld](http://conway1.mathematik.uni-halle.de/~salfeld/index-en.html).*
-
 <ol>
 {% for p in site.data.participants %}
   <li>

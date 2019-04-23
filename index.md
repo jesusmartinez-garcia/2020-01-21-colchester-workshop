@@ -7,60 +7,49 @@ title: Home
 
 ## {{ site.description }}<br> {{ site.location }}
 
-## GAP Days in general
+## CoDiMa CCP
 
-[GAP](https://www.gap-system.org/) Days are meetings where developers and users
-with GAP programming experience are invited to discuss, influence, and
-contribute to the future development of GAP. To streamline each meeting, the
-organisers usually suggest a few main topics to work on during the week.
+[CoDiMa](https://www.codima.ac.uk/) is the Collaborative Computational
+Project (CCP) in the area of Computational Discrete Mathematics,
+supported by the EPSRC. It aims to support the ecosystem of users,
+extenders and developers of open source mathematical software systems,
+primarily [GAP](http://www.gap-system.org/) and [SageMath](http://www.sagemath.org/),
+encourage best practice in their use, and support more rapid uptake of
+new features by their user and contributor communities.
 
-The meetings are also suitable for advertising recent developments in GAP
-itself, and its packages, via short talks.  However, the focus of the meetings
-is on development, with talks playing only a minor role.  As enough GAP experts
-will be around for advice and technical support, the meetings offer particularly
-good opportunities for people to work on their own packages. At the end of the
-week, we would be happy to hear about any progress you made.
+Please visit [CoDiMa website](https://www.codima.ac.uk/) for further 
+details about the project.
 
-Please visit [gapdays.de](https://www.gapdays.de) for a list of all GAP Days.
+## Algorithms and Software for Discrete Computational Mathematics
 
-## {{ site.title }}
+Agenda:
 
-The theme of this GAP Days will be “Modern Permutation Group Algorithms”.
-During this GAP Days, we aim to survey, understand, and develop the algorithmic
-infrastructure for permutation groups in GAP. To support these aims, we will
-begin by spending the first day reviewing and discussing the current
-functionality in GAP for permutations and permutation groups, beginning with the
-way permutations are stored and the basic orbit-stabiliser algorithms, and
-identifying areas in the code and documentation for improvement as we proceed.
+- Landmark computational challenges in discrete mathematics for the next decade
+- Recent advances in computational discrete mathematics
+- Modern needs of our user and developer community
+- Optional hackday for collaborative work, prototyping and learning new tools
 
-We will also include a small number of talks during the GAP Days about computing
-with permutation groups in GAP. If there is a particular topic in this area that
-you would like to hear a talk about, then please include details in the comment
-box at registration, or email us later.
+More detailed agenda to follow.
 
-We would like this GAP Days to be an opportunity for all interested people with
-little knowledge of the insides of GAP to join in: this includes undergraduate
-students, PhD students, post-docs, and more experienced mathematicians. You will
-be able to meet us and each other, and learn about GAP development and
-algorithmic group theory in a relaxed and friendly atmosphere.
-
-GAP Days Spring 2019 is organised by
-
-* [Chris Jefferson](https://caj.host.cs.st-andrews.ac.uk)
-* [Markus Pfeiffer](https://markusp.morphism.de)
-* [Rebecca Waldecker](http://conway1.mathematik.uni-halle.de/~waldecker/index-english.html)
-* [Wilf Wilson](http://wilf.me)
-
-More detailed information can be found on [the program page]({{ site.baseurl }}/program).
-
+Further information can be found on [the program page]({{ site.baseurl }}/program).
 
 ## Registering and visiting
 
-GAP Days Spring 2019 will take place at the {{ site.location }}. Information
-about the exact location can be found on [the location
-page]({{ site.baseurl }}/location).
+The workshop will take place at the {{ site.location }}. Information
+about the exact location can be found on
+[the location page]({{ site.baseurl }}/location).
+
+Registration will be opened shortly.
 
 ## <a name="contact"></a> Contact
 
+The workshop is organised by
+
+* [Alexandre Borovik](http://www.maths.manchester.ac.uk/~avb/) (local organiser)
+* [Alexander Konovalov](https://alex-konovalov.github.io/year-archive/)
+
 If you have questions or suggestions, then please contact the organisers by
-email at [gapdays2019-spring@gapdays.de](mailto:gapdays2019-spring@gapdays.de).
+email at
+[borovik@manchester.ac.uk](mailto:borovik@manchester.ac.uk)
+and
+[alexander.konovalov@st-andrews.ac.uk](mailto:alexander.konovalov@st-andrews.ac.uk).

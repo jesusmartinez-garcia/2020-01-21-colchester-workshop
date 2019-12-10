@@ -6,12 +6,12 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            'CoDiMa Workshop 2019'
-tagline:          'Algorithms and Software for Discrete Computational Mathematics'
-description:      '23<sup>rd</sup> to 25<sup>th</sup> May 2019'
-location:         'The University of Manchester'
-url:              https://CIRCA-StAndrews.github.io
-baseurl:          /codima2019workshop 
+title:            'CoDiMa Workshop - January 2020'
+tagline:          'Tools for Discrete Computational Mathematics'
+description:      '21<sup>st</sup> to 23<sup>rd</sup> January 2020'
+location:         'University of Essex - Colchester Campus'
+url:              https://ccp-codima.github.io/2020-01-21-colchester-workshop
+baseurl:          /2020-01-21-colchester-workshop
 
 
 exclude: [ "LICENSE.hyde.md", "README.hyde.md", "program.aux", "program.log", "program.out", "program.tex", "misc" ]

@@ -3,9 +3,9 @@ layout: default
 permalink: /restaurants
 ---
 
-## Restaurants in Halle
+## Restaurants in FIXME
 
-* Viet Village
-* Rote Soße
-* Bewaffel Dich
-* House of India
+* FIXME
+* FIXME
+* FIXME
+* FIXME

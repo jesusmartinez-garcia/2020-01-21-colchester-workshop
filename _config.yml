@@ -11,7 +11,7 @@ tagline:          'Tools for Discrete Computational Mathematics'
 description:      '21<sup>st</sup> to 23<sup>rd</sup> January 2020'
 location:         'University of Essex - Colchester Campus'
 url:              https://ccp-codima.github.io/2020-01-21-colchester-workshop
-baseurl:          /2020-01-21-colchester-workshop
+baseurl:          
 
 
 exclude: [ "LICENSE.hyde.md", "README.hyde.md", "program.aux", "program.log", "program.out", "program.tex", "misc" ]

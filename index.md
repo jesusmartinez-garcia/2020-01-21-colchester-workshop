@@ -22,11 +22,30 @@ details about the project.
 
 ## Tools for Discrete Computational Mathematics
 
-Agenda:
+The aim of this workshop is to give an overview of modern techniques
+for computational research using [GAP](http://www.gap-system.org/)
+and [SageMath](http://www.sagemath.org/). We plan to give introductions
+to both systems, and combine lectures with practical sessions to give
+participants an overview and an opportunity to practice a number of
+techniques:
+- use Git and GitHub to publish code and collaborate with others
+- run tests to check that their code works correctly
+- automate tasks with UNIX shell scripts
+- run distributed computations with GAP and SageMath
+- publish reproducible experiments using
+[Jupyter notebooks](https://jupyter.org/) running on [Binder](https://mybinder.org/).
 
-TBA
+For the practical sessions, you are encouraged to bring your own code
+from experiment that you run with GAP or SageMath in the past, or
+have a particular problem that you would like to tackle with their
+help. Please bring a laptop Participants must bring a laptop with a Mac, 
+Linux, or Windows operating system (not a tablet, Chromebook, etc.) 
+on which you have administrative privileges. A working installation
+of GAP and SageMath is desirable. If you have problems with installing
+them, we can try to resolve them in the beginning of the workshop,
+if time permits.
 
-Further information can be found on [the program page]({{ site.baseurl }}/program).
+Further information will pe posted on [the program page]({{ site.baseurl }}/program).
 
 ## Registering and visiting
 
@@ -46,3 +65,9 @@ The workshop is organised by
 If you have questions or suggestions, then please contact the organisers by
 email at
 [alexander.konovalov@st-andrews.ac.uk](mailto:alexander.konovalov@st-andrews.ac.uk).
+
+## Support
+
+This workshop is supported by [CCP-CoDiMa](http://www.codima.ac.uk)
+- Collaborative Computational Project in the area of Computational
+Discrete Mathematics (EPSRC grant EP/M022641/1).

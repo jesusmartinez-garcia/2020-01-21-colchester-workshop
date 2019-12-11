@@ -38,14 +38,14 @@ techniques:
 For the practical sessions, you are encouraged to bring your own code
 from experiment that you run with GAP or SageMath in the past, or
 have a particular problem that you would like to tackle with their
-help. Please bring a laptop Participants must bring a laptop with a Mac, 
+help. Please bring a laptop with a Mac, 
 Linux, or Windows operating system (not a tablet, Chromebook, etc.) 
 on which you have administrative privileges. A working installation
 of GAP and SageMath is desirable. If you have problems with installing
 them, we can try to resolve them in the beginning of the workshop,
 if time permits.
 
-Further information will pe posted on [the program page]({{ site.baseurl }}/program).
+Further information will be posted on [the program page]({{ site.baseurl }}/program).
 
 ## Registering and visiting
 

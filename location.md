@@ -7,7 +7,7 @@ The workshop will take place in
 [Colchester](https://en.wikipedia.org/wiki/Colchester){:target="_blank"}
 in the Colchester Campus
 of the
-[University of Essex](https://www.essex.ac.uk/){:target="_blank"}. [Directions](https://www.essex.ac.uk/life/colchester-campus/how-to-get-here){:target="_blank"}.
+[University of Essex](https://www.essex.ac.uk/){:target="_blank"}. 
 
 Please see below, and the
 [the program page]({{ site.baseurl }}/program),
@@ -34,6 +34,7 @@ Unfortunately since the workshop takes place during term time, we need to change
 
 <h2>Maps and travel</h2>
 
-Attendees are asked to make their own arrangements for travel and accommodation.
+Attendees are asked to make their own arrangements for travel and accommodation. 
+[Directions](https://www.essex.ac.uk/life/colchester-campus/how-to-get-here){:target="_blank"}.
 
 Maps: TBA
